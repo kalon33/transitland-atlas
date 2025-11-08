@@ -740,6 +740,42 @@
       }
     },
     {
+      "id": "f-hirosakicity~hokusei~noriai",
+      "name": "弘前市乗合タクシー（北星交通）",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://api.gtfs-data.jp/v2/organizations/hirosakicity/feeds/hokusei-noriai/files/feed.zip?uid=7192c500-b673-4f07-b998-f593480d4ca1"
+      },
+      "license": {
+        "spdx_identifier": "CC-BY-4.0",
+        "use_without_attribution": "no",
+        "create_derived_product": "yes",
+        "redistribution_allowed": "yes",
+        "commercial_use_allowed": "yes"
+      },
+      "tags": {
+        "gtfs_data_jp_prefecture_id": "2"
+      }
+    },
+    {
+      "id": "f-hirosakicity~kounan~tetsudou",
+      "name": "弘南鉄道",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://api.gtfs-data.jp/v2/organizations/hirosakicity/feeds/kounan-tetsudou/files/feed.zip?uid=a2182e8f-6c36-456a-938f-87e5bb419d6e"
+      },
+      "license": {
+        "spdx_identifier": "CC-BY-4.0",
+        "use_without_attribution": "no",
+        "create_derived_product": "yes",
+        "redistribution_allowed": "yes",
+        "commercial_use_allowed": "yes"
+      },
+      "tags": {
+        "gtfs_data_jp_prefecture_id": "2"
+      }
+    },
+    {
       "id": "f-hisayamatown~hisayamaikobus",
       "name": "久山町コミュニティバス イコバス",
       "spec": "gtfs",
@@ -2421,6 +2457,24 @@
       },
       "tags": {
         "gtfs_data_jp_prefecture_id": "33"
+      }
+    },
+    {
+      "id": "f-masudacity~noriai",
+      "name": "益田市乗合タクシー",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://api.gtfs-data.jp/v2/organizations/masudacity/feeds/noriai/files/feed.zip?uid=eaee6d6b-76e9-4d1e-a769-898ed1c99e0a"
+      },
+      "license": {
+        "spdx_identifier": "CC-BY-4.0",
+        "use_without_attribution": "no",
+        "create_derived_product": "yes",
+        "redistribution_allowed": "yes",
+        "commercial_use_allowed": "yes"
+      },
+      "tags": {
+        "gtfs_data_jp_prefecture_id": "32"
       }
     },
     {
