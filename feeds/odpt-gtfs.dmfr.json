@@ -202,6 +202,21 @@
       }
     },
     {
+      "id": "f-himeshimavill~alllines~jp",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://api.odpt.org/api/v4/files/odpt/HimeshimaVill/AllLines.zip?date=current"
+      },
+      "license": {
+        "url": "https://developer.odpt.org/terms/data_basic_license.html"
+      },
+      "authorization": {
+        "type": "query_param",
+        "param_name": "acl:consumerKey",
+        "info_url": "https://developer.odpt.org/"
+      }
+    },
+    {
       "id": "f-hitachiautomobiletransportation~alllines~jp",
       "spec": "gtfs",
       "urls": {
@@ -727,6 +742,21 @@
       }
     },
     {
+      "id": "f-kyushoferry~alllines~jp",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://api.odpt.org/api/v4/files/odpt/KyushoFerry/AllLines.zip?date=current"
+      },
+      "license": {
+        "url": "https://developer.odpt.org/terms/data_basic_license.html"
+      },
+      "authorization": {
+        "type": "query_param",
+        "param_name": "acl:consumerKey",
+        "info_url": "https://developer.odpt.org/"
+      }
+    },
+    {
       "id": "f-matsuecitytrafficoffice~alllines~jp",
       "spec": "gtfs",
       "urls": {
@@ -994,6 +1024,21 @@
       "spec": "gtfs",
       "urls": {
         "static_current": "https://api.odpt.org/api/v4/files/odpt/Shimoden/Shimoden_GTFS_Static.zip?date=current"
+      },
+      "authorization": {
+        "type": "query_param",
+        "param_name": "acl:consumerKey",
+        "info_url": "https://developer.odpt.org/"
+      }
+    },
+    {
+      "id": "f-suonadaferry~alllines~jp",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://api.odpt.org/api/v4/files/odpt/SuonadaFerry/AllLines.zip?date=current"
+      },
+      "license": {
+        "url": "https://developer.odpt.org/terms/data_basic_license.html"
       },
       "authorization": {
         "type": "query_param",
@@ -1363,6 +1408,17 @@
       ]
     },
     {
+      "onestop_id": "o-himeshimavill",
+      "name": "姫島村（大分県）",
+      "short_name": "Himeshima Village (Oita Pref.)",
+      "website": "https://www.himeshima.jp/",
+      "associated_feeds": [
+        {
+          "feed_onestop_id": "f-himeshimavill~alllines~jp"
+        }
+      ]
+    },
+    {
       "onestop_id": "o-hitachiautomobiletransportation",
       "name": "日立自動車交通株式会社",
       "short_name": "Hitachi Motor Transportation Co. Ltd.",
@@ -1625,6 +1681,16 @@
       ]
     },
     {
+      "onestop_id": "o-kyushoferry",
+      "name": "九商フェリー",
+      "short_name": "Kyusho Ferry",
+      "associated_feeds": [
+        {
+          "feed_onestop_id": "f-kyushoferry~alllines~jp"
+        }
+      ]
+    },
+    {
       "onestop_id": "o-matsuecitytrafficoffice",
       "name": "松江市交通局",
       "short_name": "Matsue City Traffic Office",
@@ -1797,6 +1863,17 @@
         },
         {
           "feed_onestop_id": "f-shimoden~shimoden~gtfs~static~jp"
+        }
+      ]
+    },
+    {
+      "onestop_id": "o-suonadaferry",
+      "name": "周防灘フェリー",
+      "short_name": "Suonada Ferry",
+      "website": "http://www.suonada.co.jp/",
+      "associated_feeds": [
+        {
+          "feed_onestop_id": "f-suonadaferry~alllines~jp"
         }
       ]
     },
