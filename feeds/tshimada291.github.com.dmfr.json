@@ -1388,17 +1388,6 @@
       }
     },
     {
-      "id": "f-easthokkaido~expressbus~jp",
-      "spec": "gtfs",
-      "urls": {
-        "static_current": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4215a2dd-3491-4005-bf66-10fda633d1af/download/easthokkaido_expressbus.zip"
-      },
-      "license": {
-        "spdx_identifier": "CC-BY-4.0",
-        "use_without_attribution": "no"
-      }
-    },
-    {
       "id": "f-echigokotsu~jp",
       "spec": "gtfs",
       "urls": {
