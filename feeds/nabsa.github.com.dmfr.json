@@ -1612,13 +1612,6 @@
       }
     },
     {
-      "id": "f-coono~e~carsharing~tübingen~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/coono/gbfs"
-      }
-    },
-    {
       "id": "f-cyclocity~toyama~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4944,13 +4937,6 @@
       }
     },
     {
-      "id": "f-gmünd~bewegt~schwäbisch~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/gmuend_bewegt/gbfs"
-      }
-    },
-    {
       "id": "f-goabout~netherlands~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5214,6 +5200,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://prod-api.joltscooters.co.nz/api/gbfs/hutt_valley/gbfs.json"
+      }
+    },
+    {
+      "id": "f-jolt~new~plymouth~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://prod-api.joltscooters.co.nz/api/gbfs/new_plymouth/gbfs.json"
+      }
+    },
+    {
+      "id": "f-jolt~selwyn~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://prod-api.joltscooters.co.nz/api/gbfs/selwyn/gbfs.json"
       }
     },
     {
