@@ -6491,6 +6491,13 @@
       }
     },
     {
+      "id": "f-nemovélo~nîmes~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.gbfs.v3.0.ecovelo.mobi/nemovelo/gbfs.json"
+      }
+    },
+    {
       "id": "f-neuron~mobility~airdrie~gbfs",
       "spec": "gbfs",
       "urls": {
