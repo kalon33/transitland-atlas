@@ -1167,7 +1167,7 @@
       "id": "f-bixi~montréal~montreal~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.velobixi.com/gbfs/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.velobixi.com/gbfs/2-2/gbfs.json"
       }
     },
     {
@@ -1357,6 +1357,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_boulder/gbfs.json"
+      }
+    },
+    {
+      "id": "f-breizhgo~bretagne~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.gbfs.v3.0.ecovelo.mobi/breizhgo/gbfs.json"
       }
     },
     {
@@ -3166,6 +3173,13 @@
       }
     },
     {
+      "id": "f-dott~genova~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/genova/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~gera~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3233,6 +3247,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/grodzisk-mazowiecki/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~groningen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/groningen/gbfs.json"
       }
     },
     {
@@ -4139,6 +4160,13 @@
       }
     },
     {
+      "id": "f-dott~orkanger~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/orkanger/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~osnabrück~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4542,6 +4570,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/siofok/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~skaun~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/skaun/gbfs.json"
       }
     },
     {
@@ -7667,97 +7702,6 @@
       }
     },
     {
-      "id": "f-neuron~mobility~airdrie~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/ard/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~brampton~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/bmt/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~calgary~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yyc/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~edmonton~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yeg/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~kitchen~cambridge~waterloo~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/kcw/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~lethbridge~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yql/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~newcastle~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/ncl/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~ottawa~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yow/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~red~deer~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yqf/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~regina~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yqr/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~saskatoon~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yxe/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~mobility~vernon~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yve/gbfs/2/"
-      }
-    },
-    {
-      "id": "f-neuron~oshawa~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yoo/gbfs/2/"
-      }
-    },
-    {
       "id": "f-new~möbus~nextbike~mönchengladbach~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -9774,6 +9718,13 @@
       }
     },
     {
+      "id": "f-vmobil~rad~dornbirn~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_vo/gbfs.json"
+      }
+    },
+    {
       "id": "f-voi~antwerp~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -9806,6 +9757,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/voi_de/gbfs"
+      }
+    },
+    {
+      "id": "f-voi~grand~paris~seine~et~oise~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/422/gbfs.json"
       }
     },
     {
@@ -10156,6 +10114,34 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://yaldi.rideatom.com/gbfs/511/v3.0/gbfs"
+      }
+    },
+    {
+      "id": "f-yego~bordeaux~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://services.rideyego.com/gbfs/2-3/bordeaux/fr/gbfs"
+      }
+    },
+    {
+      "id": "f-yego~nice~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://services.rideyego.com/gbfs/2-3/nice/fr/gbfs"
+      }
+    },
+    {
+      "id": "f-yego~paris~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://services.rideyego.com/gbfs/2-3/paris/fr/gbfs"
+      }
+    },
+    {
+      "id": "f-yego~toulouse~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://services.rideyego.com/gbfs/2-3/toulouse/fr/gbfs"
       }
     },
     {
